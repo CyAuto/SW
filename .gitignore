@@ -1,0 +1,35 @@
+# Build and Object Folders  
+obj/  
+# Image files
+[Ii]mages/
+
+# User-specific files  
+*.suo
+*.sln.docstates  
+
+# Nuget packages directory  
+packages/  
+
+# Build results  
+[Dd]ebug/  
+[Rr]elease/  
+x64/  
+*_i.c  
+*_p.c  
+*.ilk  
+*.meta  
+*.obj  
+*.pch  
+*.pdb  
+*.pgc  
+*.pgd  
+*.rsp  
+*.sbr  
+*.tlb  
+*.tli  
+*.tlh  
+*.tmp  
+*.log  
+*.vspscc  
+*.vssscc  
+.builds  

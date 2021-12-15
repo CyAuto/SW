@@ -1,0 +1,8 @@
+<project outputDir="D:\06-CS\08-src\SW\bin\Release\Confused" baseDir="D:\06-CS\08-src\SW\bin\Release" xmlns="http://confuser.codeplex.com">
+  <rule pattern="true" preset="normal" inherit="false">
+    <protection id="anti ildasm" />
+    <protection id="anti dump" />
+    <protection id="anti debug" />
+  </rule>
+  <module path="SW.exe" />
+</project>
